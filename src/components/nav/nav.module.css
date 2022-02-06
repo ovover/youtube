@@ -1,0 +1,20 @@
+.bar {
+  height: 2em;
+  background-color: black;
+  text-align: center;
+}
+
+.logo {
+  color: red;
+}
+
+.searchButton {
+  background-color: grey;
+  color: white;
+}
+
+.searchInput {
+  margin-left: 1em;
+  margin-right: 1em;
+  /* width: 50%; */
+}

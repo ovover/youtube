@@ -1,0 +1,16 @@
+.app {
+  max-width: 90rem;
+}
+
+.content {
+  display: flex;
+  max-width: 80rem;
+}
+
+.detail {
+  flex: 1 1 70%;
+}
+
+.lists {
+  flex: 1 1 30%;
+}
